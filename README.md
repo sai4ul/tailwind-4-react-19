@@ -1,4 +1,4 @@
-# React + Vite + Tailwind
+# React - 19 + Vite + Tailwind - 4
 
 1. npm create vite@latest my-react-app -- --template react
 2. cd my-react-app
